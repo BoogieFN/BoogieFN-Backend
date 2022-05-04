@@ -1,6 +1,6 @@
 # BoogieFN Fortnite Hybrid Backend 🥳
 ## Backend Used For BoogieFN
-## Made by noteason and Pirxcy
+## Made by noteason and Pirxcy and skidded by Reksely
 
 # How to use this Backend
 ### ❯ open run.bat
