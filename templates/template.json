@@ -1,0 +1,2423 @@
+{
+  "profileChanges": [
+    {
+      "changeType": "fullProfileUpdate",
+      "profile": {
+        "_id": "",
+        "accountId": "",
+        "created": "",
+        "items": {
+          "VictoryCrown:defaultvictorycrown": {
+            "templateId": "VictoryCrown:defaultvictorycrown",
+            "attributes": {
+              "victory_crown_account_data": {
+                "has_victory_crown": false,
+                "data_is_valid_for_mcp": true,
+                "total_victory_crowns_bestowed_count": 500,
+                "total_royal_royales_achieved_count": 1942
+              },
+              "max_level_bonus": 0,
+              "level": 69420,
+              "item_seen": false,
+              "xp": 0,
+              "favorite": false
+            },
+            "quantity": 1
+          }
+          },
+        "profileId": "athena",
+        "rvn": 0,
+        "stats": {
+          "attributes": {
+            "accountLevel": 150,
+            "active_loadout_index": 1942,
+            "alien_style_points": 1942,
+            "battlestars": 1942,
+            "battlestars_season_total": 0,
+            "book_level": 100,
+            "book_purchased": true,
+            "book_xp": 0,
+            "vbucks": 10,
+            "competitive_identity": {},
+            "creative_dynamic_xp": {
+              "bankXp": 0,
+              "bankXpMult": 1,
+              "boosterBucketXp": 0,
+              "boosterXpMult": 0.2690666615962982,
+              "bucketXp": 0,
+              "currentDay": 71,
+              "currentDayXp": 20492,
+              "dailyExcessXpMult": 1,
+              "timespan": 589.07421875
+            },
+            "inventory_limit_bonus": 0,
+            "last_applied_loadout": null,
+            "last_xp_interaction": "22015-01-01T00:01:00.000Z",
+            "level": 150,
+            "lifetime_wins": 248,
+            "loadouts": [
+              "default_loadout"
+            ],
+            "mfa_reward_claimed": true,
+            "party_assist_quest": null,
+            "past_seasons": [],
+            "permissions": [],
+            "pinned_quest": "",
+            "purchased_battle_pass_tier_offers": {},
+            "purchased_bp_offers": [
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:SPID_370_MysticAmulet",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:SPID_370_MysticAmulet",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "CE1A58C942648B67D7D863946451877B",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaItemWrap:Wrap_451_OrderGuard",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaItemWrap:Wrap_451_OrderGuard",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "75EEC1904BA9F197328CD9A6561316C5",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaPickaxe:Pickaxe_ID_773_OrderGuardMale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaPickaxe:Pickaxe_ID_773_OrderGuardMale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "8CB1D65B4C7694A1DC5CBDA36E65EB92",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaBackpack:BID_969_CyberArmor",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaBackpack:BID_969_CyberArmor",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "F17022904DDE2DBE39661F8E0F34104A",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaItemWrap:Wrap_450_Mystic",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaItemWrap:Wrap_450_Mystic",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "384E238541A5954F24FF2CA21B7FC216",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_543_Binary_ColorC",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_543_Binary_ColorC",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "7938685B44EB1608C38A549085AE3623",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_522_CyberArmor_StyleD",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_522_CyberArmor_StyleD",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "1DC0C1A947215DB7B14104AF98DC8D68",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_541_OriginPrisoner_ColorC",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_541_OriginPrisoner_ColorC",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "BCD80D664FA20ACCCA732CBA0BE48244",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_535_KnightCat_VisorA",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_535_KnightCat_VisorA",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "DEAD111B4904D91DAC1197BBEC25E15C",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:EID_Aloha_C82XX",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:EID_Aloha_C82XX",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "2EA027FD462F5A95B15E948C66463457",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:EID_Aloha_C82XX",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:EID_Aloha_C82XX",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "DE8450984D122EAF46C21680DBCF86CA",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:EID_Aloha_C82XX",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:EID_Aloha_C82XX",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "8FD79CC642A893574CFBB089237664EC",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:EID_Aloha_C82XX",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:EID_Aloha_C82XX",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "19EF8A034DBD40332891889872D914A1",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:EID_Aloha_C82XX",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:EID_Aloha_C82XX",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "9F60FF254E03F89FE9D57DA632BC6D3A",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "HomebaseBannerIcon:BRS20_CyberArmor",
+                    "itemProfile": "athena",
+                    "itemType": "HomebaseBannerIcon:BRS20_CyberArmor",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "22F589BC4F2ABA2A60DEBA9C86B5F5FC",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:EID_Aloha_C82XX",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:EID_Aloha_C82XX",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "C618034F4939458B93F3D3A54F42650D",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaLoadingScreen:LSID_412_CyberArmor",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaLoadingScreen:LSID_412_CyberArmor",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "AA2241BE4FFD42D565A842A5790D920C",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaItemWrap:Wrap_454_CyberArmor",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaItemWrap:Wrap_454_CyberArmor",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "C8E2439841112EC5A8E2199F8A2D4D5F",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaGlider:Glider_ID_356_CyberArmorFemale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaGlider:Glider_ID_356_CyberArmorFemale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "FF538BBC43F46C9585584083ECB5D7EF",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "6E6C278B416DB9B321FA509C3114B591",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaPickaxe:Pickaxe_ID_768_CyberArmorFemale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaPickaxe:Pickaxe_ID_768_CyberArmorFemale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "41780CB246B4965B82BA1185731A7869",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:Emoji_S20_CyberArmor",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:Emoji_S20_CyberArmor",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "73284E8F44FAD9DF3596749664677D0C",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:EID_Aloha_C82XX",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:EID_Aloha_C82XX",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "039D88E2452E65FA9DC2D3B05C286107",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "D02C19FD4FFB833ABE556AAE9C74BA8C",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:EID_Aloha_C82XX",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:EID_Aloha_C82XX",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "37DFBFA748B8EDF831F39F9F788CC451",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:Emoji_S20_OrderGuard",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:Emoji_S20_OrderGuard",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "D663B6D744F38F3B91D825A753A04A75",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaSkyDiveContrail:Trails_ID_142_OrderGuard",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaSkyDiveContrail:Trails_ID_142_OrderGuard",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "291F725F4A6FFD22401E2E8E0758C584",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_521_CyberArmor_StyleC",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_521_CyberArmor_StyleC",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "B7E07FAF4E67EE76EFFF79AB33D739E0",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaLoadingScreen:LSID_418_S20_Drill",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaLoadingScreen:LSID_418_S20_Drill",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "6D36776948DA707EFDB3DAA150D1E3B4",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaMusicPack:MusicPack_129_OrderGuard",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaMusicPack:MusicPack_129_OrderGuard",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "2563D073417DB6D41F30CB9C6AEC15B8",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_523_OrderGuard_StyleB",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_523_OrderGuard_StyleB",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "3FC7BE594E5350EBD9BAA18779D8DA2B",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaLoadingScreen:LSID_411_CubeKing",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaLoadingScreen:LSID_411_CubeKing",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "64B403B3425422CB9B3B889954778C59",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_524_OrderGuard_ColorB",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_524_OrderGuard_ColorB",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "EEF404B94947C3C2E582C096BC9700AA",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaLoadingScreen:LSID_414_OrderGuard",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaLoadingScreen:LSID_414_OrderGuard",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "58867BC54BE10201599002BF26F6C86D",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "FAEACF094FC594F54D85C8A691EB6B35",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "9AE29EEE4387F1E22827A1B39D3DFEF4",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "CF63B1774C276C3D4DFFE2BF46B9112A",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:SPID_372_OrderGuard",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:SPID_372_OrderGuard",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "1A9F3526415BC5B933EF85931A78D8FF",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaPickaxe:Pickaxe_ID_766_BinaryFemale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaPickaxe:Pickaxe_ID_766_BinaryFemale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "63083E854123FBB89FEE529A7268417C",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "HomebaseBannerIcon:BRS20_Binary",
+                    "itemProfile": "athena",
+                    "itemType": "HomebaseBannerIcon:BRS20_Binary",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "4B401F454BF8E2BC08023B821029D7D9",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "CA009698428C38AD6BC66B8154F454EB",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_526_OrderGuard_ColorD",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_526_OrderGuard_ColorD",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "EBA74E6941983416F047E6A60A93C777",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaBackpack:BID_974_Binary",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaBackpack:BID_974_Binary",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "66FF696F4D363019B70DB7957E4909DE",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "C8CF51B34B13E3B5474C2FB48F94BC8F",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "ItemAccessToken:IATID_026_Emote_CyberArmor",
+                    "itemProfile": "athena",
+                    "itemType": "ItemAccessToken:IATID_026_Emote_CyberArmor",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "55C81C0949DE9AD861D40F8D1B21DD6C",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "302AE09B4CD174240308E0A9D73A85A8",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaCharacter:CID_A_374_Athena_Commando_F_Binary",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaCharacter:CID_A_374_Athena_Commando_F_Binary",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "BA9DFC2B4F806CDE940621908930D5BA",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaLoadingScreen:LSID_419_S20_AllOutWar",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaLoadingScreen:LSID_419_S20_AllOutWar",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "1956A5D547BAD8FB48FB0C9983124A10",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaGlider:Glider_354_BinaryFemale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaGlider:Glider_354_BinaryFemale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "5B919F8E4E3EF1BAE8F1F6A1895D5C15",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "00B54F3D45781861C3A8589990EED3AA",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaGlider:Glider_ID_355_CadetFemale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaGlider:Glider_ID_355_CadetFemale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "8CFE34874DDB10B5C945EE9C033BB48A",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaBackpack:BID_968_MysticBookMale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaBackpack:BID_968_MysticBookMale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "25F65A88448B384B5846FDBA3AB99680",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:Emoji_S20_Cadet",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:Emoji_S20_Cadet",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "95CAC83C4077374CD78A109B7040C3FA",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:SPID_371_MysticRunes",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:SPID_371_MysticRunes",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "82890E2A4FA50FBDC3A56888B29C7070",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:SPID_363_Cadet",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:SPID_363_Cadet",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "6D235C534C853FC671641786D95EE797",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:SPID_365_CyberArmor",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:SPID_365_CyberArmor",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "0AFDEBF5430AFFF9693766A097C70D43",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaBackpack:BID_971_Cadet",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaBackpack:BID_971_Cadet",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "51A51503498D60C4D85AF8AB51A6D1F5",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaCharacter:CID_A_371_Athena_Commando_F_Cadet",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaCharacter:CID_A_371_Athena_Commando_F_Cadet",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "18E699F84B01E6F3A82CB1AF1EC7BFD0",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaSkyDiveContrail:Trails_ID_138_Cadet",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaSkyDiveContrail:Trails_ID_138_Cadet",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "2FC05C50451B6D7D5FDB4E8812477D13",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaPickaxe:Pickaxe_ID_767_CadetFemale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaPickaxe:Pickaxe_ID_767_CadetFemale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "EFE1D7C1443510C93ED69584A099E00D",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:EID_Handlebars",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:EID_Handlebars",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "C37C70C2413F7FEDC1D42B97F0F53178",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "5F14DEC0449B3DF9E74648A72582E80E",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaLoadingScreen:LSID_410_Cadet",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaLoadingScreen:LSID_410_Cadet",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "60D0A5BB40CC52B0F96C579742521708",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "HomebaseBannerIcon:BRS20_CadetCat",
+                    "itemProfile": "athena",
+                    "itemType": "HomebaseBannerIcon:BRS20_CadetCat",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "78FB4D9442A38077DEF92BA347C7F1B7",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:EID_Aloha_C82XX",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:EID_Aloha_C82XX",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "D87D11B742A6EE1C6ABDCCA50D86AFAE",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaMusicPack:MusicPack_127_Cadet",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaMusicPack:MusicPack_127_Cadet",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "ABFB3F5E4B0184029D4810AEDE9810E6",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaGlider:Glider_ID_361_OrderGuardMale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaGlider:Glider_ID_361_OrderGuardMale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "89CB758249DACFE0CD7834B5C90E9FB3",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "01863A394C6834FB81F38DB41C9914E4",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "ItemAccessToken:IATID_027_Emote_Cadet",
+                    "itemProfile": "athena",
+                    "itemType": "ItemAccessToken:IATID_027_Emote_Cadet",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "2B72B78C40C4CD47072E1EB1BA405F5B",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaLoadingScreen:LSID_423_Binary",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaLoadingScreen:LSID_423_Binary",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "FFCD4BF74F18628E39F91682BEEE432F",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaItemWrap:Wrap_457_Binary",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaItemWrap:Wrap_457_Binary",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "A3B9440B490C2B9FD1570EAE984D0057",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:SPID_362_Binary",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:SPID_362_Binary",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "0FD845954D8D9742E6ED4FB7A2320644",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaGlider:Glider_ID_360_MysticMale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaGlider:Glider_ID_360_MysticMale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "147FF41149E2BAB8EAE8D18767BB030E",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_528_Cadet_ColorC",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_528_Cadet_ColorC",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "DA83DACD4B5E59814D66099C79C99E4A",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_520_CyberArmor_StyleB",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_520_CyberArmor_StyleB",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "A51C3E974AE82DEE99DC97A7A8C8546C",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "C910DB8C4CB92674F79B0F94A9EDFD44",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_544_Binary_VisorA",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_544_Binary_VisorA",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "B75024B940253DD4AEBCED865641A4AC",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaBackpack:BID_970_OrderGuard",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaBackpack:BID_970_OrderGuard",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "864F48A940C8232C004CD79DCB702F3D",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaItemWrap:Wrap_456_OriginPrison",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaItemWrap:Wrap_456_OriginPrison",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "2FD9B81F46D59C3FC393899948A50AEB",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaSkyDiveContrail:Trails_ID_141_TheOrigin",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaSkyDiveContrail:Trails_ID_141_TheOrigin",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "4682042747C6C2F321A6D9B4A0823ADD",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "HomebaseBannerIcon:BRS20_CubeKing",
+                    "itemProfile": "athena",
+                    "itemType": "HomebaseBannerIcon:BRS20_CubeKing",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "2D5E86BA4E7A9B41AEC15DBD6C498396",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaSkyDiveContrail:Trails_ID_140_Mystic",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaSkyDiveContrail:Trails_ID_140_Mystic",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "8604481445D6D29B4A310DAD89FCCB91",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_527_Cadet_ColorB",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_527_Cadet_ColorB",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "AC826AA94E261A9D6E4A33B15DFA82A9",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaLoadingScreen:LSID_417_S20_BattleBus",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaLoadingScreen:LSID_417_S20_BattleBus",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "285678CC4CDC491AF8D914AF547CD1A0",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_533_KnightCat_ColorC",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_533_KnightCat_ColorC",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "4E65BACE41DD96F6691C7D8A7AEB3A0E",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaBackpack:BID_973_OriginPrisonMale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaBackpack:BID_973_OriginPrisonMale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "8A99A16F40942CDC9CACA388E1380E66",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaCharacter:CID_A_373_Athena_Commando_M_OriginPrisoner",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaCharacter:CID_A_373_Athena_Commando_M_OriginPrisoner",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "B0D8697C4680720D08F2D09D1C4CAD18",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "0289C221459D2E9E7F1280B8CEB63BA7",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "HomebaseBannerIcon:BRS20_OrderGuard",
+                    "itemProfile": "athena",
+                    "itemType": "HomebaseBannerIcon:BRS20_OrderGuard",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "2F1E758849BF607961F6EDB58C812E36",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaPickaxe:Pickaxe_ID_776_TheOriginMale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaPickaxe:Pickaxe_ID_776_TheOriginMale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "6CB57A9844322CCFB48F57878FC755D8",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "EE97F1534FAFFBE8D3B951B92B39F3C7",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:Emoji_S20_CubeKing",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:Emoji_S20_CubeKing",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "25110E044B86090025DE21891B91EAE4",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaBackpack:BID_972_KnightCat_Female",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaBackpack:BID_972_KnightCat_Female",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "0707B07D4CC3DDD220B0EA8D21AECD61",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaLoadingScreen:LSID_413_KnightCat",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaLoadingScreen:LSID_413_KnightCat",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "313758FE47B5140B1EC2DDA42BA3CE4B",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaItemWrap:Wrap_455_KnightCat",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaItemWrap:Wrap_455_KnightCat",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "83A4164B430F45B2B9D1FA89161E845A",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_540_OriginPrisoner_ColorB",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_540_OriginPrisoner_ColorB",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "448D65B6425441A2720114947DCCA787",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaCharacter:CID_A_372_Athena_Commando_F_KnightCat",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaCharacter:CID_A_372_Athena_Commando_F_KnightCat",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "21D87E9A49122A78FB83DAA86E63C1DE",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaPickaxe:Pickaxe_ID_770_KnightCatFemale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaPickaxe:Pickaxe_ID_770_KnightCatFemale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "CCF27FB8456E1FA216E1068EEB6B6F39",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaGlider:Glider_ID_358_KnightCatFemale",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaGlider:Glider_ID_358_KnightCatFemale",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "58AE9FD54256EC3021F9C6BEBA718AB7",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaCharacter:CID_A_370_Athena_Commando_M_OrderGuard",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaCharacter:CID_A_370_Athena_Commando_M_OrderGuard",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "E55E32D3464F17E4771681BFA2A72097",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaItemWrap:Wrap_452_Cadet",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaItemWrap:Wrap_452_Cadet",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "CBD0028C4E8EC59D47F6C68AA1B78D8C",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "HomebaseBannerIcon:BRS20_KnightCat",
+                    "itemProfile": "athena",
+                    "itemType": "HomebaseBannerIcon:BRS20_KnightCat",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "EEA1DBFE4035621D1A67C98A90EA8E7A",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "attributes": {
+                      "platform": "Shared"
+                    },
+                    "itemGuid": "Currency:MtxGiveaway",
+                    "itemProfile": "common_core",
+                    "itemType": "Currency:MtxGiveaway",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "CB8F2D6B48AAA09F9E953EB632EC6249",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:SPID_367_KnightCat",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:SPID_367_KnightCat",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "4A7BF3E4418AB12DB6F768AF7D8D3FD2",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:EID_KnightCat",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:EID_KnightCat",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "9D7AA96D4EF8A929CFE56C9618FF3812",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": true,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaDance:Emoji_S20_KnightCat",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaDance:Emoji_S20_KnightCat",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "6B429C6F4AD7A2787C3477ABDAFE6C3A",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "AthenaSkyDiveContrail:Trails_ID_139_KnightCat",
+                    "itemProfile": "athena",
+                    "itemType": "AthenaSkyDiveContrail:Trails_ID_139_KnightCat",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "F1695C814236EB285BD05BB02BDD6F77",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_532_KnightCat_ColorB",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_532_KnightCat_ColorB",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "EC1772E449E9B9219462558AB8F45FF4",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_525_OrderGuard_ColorC",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_525_OrderGuard_ColorC",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "591575D140A923260A96E3A57D9399E4",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "ItemAccessToken:IATID_028_Emote_OriginPrisoner",
+                    "itemProfile": "athena",
+                    "itemType": "ItemAccessToken:IATID_028_Emote_OriginPrisoner",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "A16BAE494E9AC433F60ACEB643D54712",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_563_CyberArmor_Pickaxe_BladeStyleB",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_563_CyberArmor_Pickaxe_BladeStyleB",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "A60413B14A7E6840EEF4C092989493CB",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_564_CyberArmor_Pickaxe_BladeStyleC",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_564_CyberArmor_Pickaxe_BladeStyleC",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "2AB6D03D4037FD978D574C9743F21479",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_568_CyberArmor_Pickaxe_BladeStyleG",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_568_CyberArmor_Pickaxe_BladeStyleG",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "35E39C24470C6F5F9F28BBA243A505BC",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_575_CyberArmor_Pickaxe_BladeStyleN",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_575_CyberArmor_Pickaxe_BladeStyleN",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "1772B0F94A4BA282470990B7D6D61339",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_567_CyberArmor_Pickaxe_BladeStyleF",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_567_CyberArmor_Pickaxe_BladeStyleF",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "3D1B442B4D39B19E37489985C89FE201",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_569_CyberArmor_Pickaxe_BladeStyleH",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_569_CyberArmor_Pickaxe_BladeStyleH",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "3AD032674AC27CADA8BA15ADFBF44324",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_577_CyberArmor_Pickaxe_GuardStyleB",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_577_CyberArmor_Pickaxe_GuardStyleB",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "288240B84C1DBE24E20AB2BFA5B44E10",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_578_CyberArmor_Pickaxe_GuardStyleC",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_578_CyberArmor_Pickaxe_GuardStyleC",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "28EB6760472C61F51481D7905606017C",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_583_CyberArmor_Pickaxe_GuardStyleH",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_583_CyberArmor_Pickaxe_GuardStyleH",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "020BC2EC45334A35F18D68B6079B9E83",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_582_CyberArmor_Pickaxe_GuardStyleG",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_582_CyberArmor_Pickaxe_GuardStyleG",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "CAA69C754BA9260C099663BC67633F58",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_581_CyberArmor_Pickaxe_GuardStyleF",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_581_CyberArmor_Pickaxe_GuardStyleF",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "1F81599241924FC9125E3DA9F693EF7E",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_580_CyberArmor_Pickaxe_GuardStyleE",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_580_CyberArmor_Pickaxe_GuardStyleE",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "F4115CE44BD16137C86EDBBD63CB71FE",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_566_CyberArmor_Pickaxe_BladeStyleE",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_566_CyberArmor_Pickaxe_BladeStyleE",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "46FA63424C482C87361E7484EF174ECF",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_579_CyberArmor_Pickaxe_GuardStyleD",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_579_CyberArmor_Pickaxe_GuardStyleD",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "B02E97BB4616E071FE4126A21626DBF8",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_591_CyberArmor_Pickaxe_ColorB",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_591_CyberArmor_Pickaxe_ColorB",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "6CECD5354D5B8704403C4BB710B56A33",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_592_CyberArmor_Pickaxe_ColorC",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_592_CyberArmor_Pickaxe_ColorC",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "DC20D2614C6C7C1164B33F972D03A2C5",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_597_CyberArmor_Pickaxe_ColorH",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_597_CyberArmor_Pickaxe_ColorH",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "64CD592A42B27F72F70B018C70814F96",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_596_CyberArmor_Pickaxe_ColorG",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_596_CyberArmor_Pickaxe_ColorG",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "AA4C36C046EDAC2424F17E93141A56A0",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_595_CyberArmor_Pickaxe_ColorF",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_595_CyberArmor_Pickaxe_ColorF",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "89355CEF4CE9F1CA84613A911F519886",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_594_CyberArmor_Pickaxe_ColorE",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_594_CyberArmor_Pickaxe_ColorE",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "2CBF9E264AC29CF221B52CAB0DDDA5A0",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_593_CyberArmor_Pickaxe_ColorD",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_593_CyberArmor_Pickaxe_ColorD",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "FA5A8E634FC61EF331F8F183635365EF",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_598_CyberArmor_Pickaxe_ColorI",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_598_CyberArmor_Pickaxe_ColorI",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "406443B54256DE746033749898E2F12B",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_603_CyberArmor_Pickaxe_ColorN",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_603_CyberArmor_Pickaxe_ColorN",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "B5009D424836859A963D51B7000C7DCA",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_565_CyberArmor_Pickaxe_BladeStyleD",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_565_CyberArmor_Pickaxe_BladeStyleD",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "7555280A40BC2BCB3030B6BEEB4FE189",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_604_CyberArmor_Pickaxe_ColorO",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_604_CyberArmor_Pickaxe_ColorO",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "37FD1AD04FB695E3972B8785E7420D8F",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_602_CyberArmor_Pickaxe_ColorM",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_602_CyberArmor_Pickaxe_ColorM",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "E71378CE4F4E78DD7EEE9FB1F8BCB371",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_601_CyberArmor_Pickaxe_ColorL",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_601_CyberArmor_Pickaxe_ColorL",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "112DA3BD4F92B843BBE7ECA5C1955541",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_600_CyberArmor_Pickaxe_ColorK",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_600_CyberArmor_Pickaxe_ColorK",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "DE52A9FB4807F95B2C18AEA644A93ED6",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_599_CyberArmor_Pickaxe_ColorJ",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_599_CyberArmor_Pickaxe_ColorJ",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "8F2CD3F448A6AD37E6F744A7E6BD0C17",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_605_CyberArmor_Pickaxe_AudioH",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_605_CyberArmor_Pickaxe_AudioH",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "738376E840C5F880ED4AA39D345B7BAB",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_589_CyberArmor_Pickaxe_AudioG",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_589_CyberArmor_Pickaxe_AudioG",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "97A76EA34C98A94816BEAE9ED665ED86",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_588_CyberArmor_Pickaxe_AudioF",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_588_CyberArmor_Pickaxe_AudioF",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "05F27F2243A8ACBE87CF0AAF14D7F6EA",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_587_CyberArmor_Pickaxe_AudioE",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_587_CyberArmor_Pickaxe_AudioE",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "5D5808E248FE73E6289E7686A464E2AD",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_586_CyberArmor_Pickaxe_AudioD",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_586_CyberArmor_Pickaxe_AudioD",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "EF45AE114D5754D5BF29CE95ED474059",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_572_CyberArmor_Pickaxe_BladeStyleK",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_572_CyberArmor_Pickaxe_BladeStyleK",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "AFBDA4A84319FE69DD664384BC4AF95A",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_585_CyberArmor_Pickaxe_AudioC",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_585_CyberArmor_Pickaxe_AudioC",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "F7D89D6848C1862DB422CF97901418A5",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_584_CyberArmor_Pickaxe_AudioB",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_584_CyberArmor_Pickaxe_AudioB",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "60949735422029FA73FEACBAC331C26F",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_571_CyberArmor_Pickaxe_BladeStyleJ",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_571_CyberArmor_Pickaxe_BladeStyleJ",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "5B14AC8846D4ACA9E04BBDB5E3309E69",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_573_CyberArmor_Pickaxe_BladeStyleL",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_573_CyberArmor_Pickaxe_BladeStyleL",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "4555A5664DB2D71EF537DB8ABFDD744E",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_570_CyberArmor_Pickaxe_BladeStyleI",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_570_CyberArmor_Pickaxe_BladeStyleI",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "7B00E9804A0CC9C3667B5DBA1388CD52",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_576_CyberArmor_Pickaxe_BladeStyleO",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_576_CyberArmor_Pickaxe_BladeStyleO",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "C0C67F0141F4DCD8EB895DB3A7CD09BF",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              },
+              {
+                "bIsFreePassReward": false,
+                "currencyType": "battlestars",
+                "lootResult": [
+                  {
+                    "itemGuid": "CosmeticVariantToken:VTID_A_574_CyberArmor_Pickaxe_BladeStyleM",
+                    "itemProfile": "athena",
+                    "itemType": "CosmeticVariantToken:VTID_A_574_CyberArmor_Pickaxe_BladeStyleM",
+                    "quantity": 1
+                  }
+                ],
+                "offerId": "C35A259F42E23BBB9CA826BDFE4150CB",
+                "purchaseDate": "2021-06-08T17:22:19.592Z",
+                "totalCurrencyPaid": 0
+              }
+            ],
+            "rested_xp": 342419,
+            "rested_xp_exchange": 1,
+            "rested_xp_golden_path_granted": 287419,
+            "rested_xp_mult": 4.4,
+            "rested_xp_overflow": 0,
+            "season_first_tracking_bits": [],
+            "season_friend_match_boost": 0,
+            "season_levels_purchased": 0,
+            "season_match_boost": 0,
+            "season_num": 20,
+            "season_update": 0,
+            "style_points": 1942,
+            "style_points_season_total": 0,
+            "use_random_loadout": false,
+            "xp": 1942,
+            "xp_overflow": 0
+          }
+        },
+        "updated": "2022-04-09 15:33:04",
+        "version": "storm_latest",
+        "wipeNumber": 1
+      }
+    }],
+  "profileChangesBaseRevision": -1,
+  "profileCommandRevision": 0,
+  "profileId": "athena",
+  "profileRevision": 0,
+  "responseVersion": 1,
+  "serverTime": "2022-04-09 15:33:04"
+}

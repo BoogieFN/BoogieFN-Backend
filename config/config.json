@@ -1,0 +1,86 @@
+{
+	"banner_color_template": null,
+	"banner_icon_template": "BRSeason01",
+	"favorites": [],
+	"level": 207,
+	"slots": {
+		"Backpack": {
+			"activeVariants": [{
+				"variants": []
+			}],
+			"items": ["AthenaBackpack:"]
+		},
+		"Character": {
+			"activeVariants": [{
+				"variants": []
+			}],
+			"items": ["AthenaCharacter:CID_A_332_Athena_Commando_F_PrimalFalcon_3ITKM"]
+		},
+		"Dance": {
+			"items": [null, null, null, null, null, null]
+		},
+		"Glider": {
+			"activeVariants": [{
+				"variants": []
+			}],
+			"items": ["AthenaGlider:Glider_ID_090_Celestial"]
+		},
+		"ItemWrap": {
+			"activeVariants": [
+				[{
+					"variants": []
+				}],
+				[{
+					"variants": []
+				}],
+				[{
+					"variants": []
+				}],
+				[{
+					"variants": []
+				}],
+				[{
+					"variants": []
+				}],
+				[{
+					"variants": []
+				}],
+				[{
+					"variants": []
+				}]
+			],
+			"items": ["AthenaItemWrap:Wrap_323_HalfFull",
+        "AthenaItemWrap:Wrap_323_HalfFull", "AthenaItemWrap:Wrap_323_HalfFull",
+        "AthenaItemWrap:Wrap_323_HalfFull", "AthenaItemWrap:Wrap_323_HalfFull",
+        "AthenaItemWrap:Wrap_323_HalfFull", "AthenaItemWrap:Wrap_323_HalfFull"]
+		},
+		"LoadingScreen": {
+			"activeVariants": [{
+				"variants": []
+			}],
+			"items": ["AthenaLoadingScreen:lsid_random"]
+		},
+		"MusicPack": {
+			"activeVariants": [{
+				"variants": []
+			}],
+			"items": ["AthenaMusicPack:MusicPack_039_Envy"]
+		},
+		"Pickaxe": {
+			"activeVariants": [{
+				"variants": []
+			}],
+			"items": ["AthenaPickaxe:Pickaxe_Lockjaw"]
+		},
+		"SkyDiveContrail": {
+			"activeVariants": [{
+				"variants": []
+			}],
+			"items": ["AthenaSkyDiveContrail:trails_id_059_sony2"]
+		}
+	},
+	"vbucks": 2000000000000000000000000,
+	"crowns": 6969,
+	"battlestars": 36456,
+	"feathers": 1000
+}

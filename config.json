@@ -1,0 +1,8 @@
+{
+  "host": "0.0.0.0",
+  "port": 1942,
+  "emergencynotice": "Welcome To BoogieFN!",
+  "background": "seasonx"
+  "custom_bg_url": true,
+  "background_image_url": "https://cdn2.unrealengine.com/t-bp20-lobby-2048x1024-d89eb522746c.png"
+}

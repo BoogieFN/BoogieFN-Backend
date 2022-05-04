@@ -1,0 +1,25 @@
+{
+    "profileChanges": [{
+        "changeType": "fullProfileUpdate",
+        "profile": {
+            "_id": "",
+            "accountId": "",
+            "created": "",
+            "items": {},
+            "profileId": "collections",
+            "rvn": 1,
+            "stats": {
+                "attributes": {}
+            },
+            "updated": "",
+            "version": "storm_latest",
+            "wipeNumber": 1
+        }
+    }],
+    "profileChangesBaseRevision": -1,
+    "profileCommandRevision": 0,
+    "profileId": "collections",
+    "profileRevision": 0,
+    "responseVersion": 1,
+    "serverTime": ""
+}
