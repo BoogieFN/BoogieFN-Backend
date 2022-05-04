@@ -1,0 +1,4 @@
+@echo off
+title BoogieFN
+py main.py
+cmd /k
