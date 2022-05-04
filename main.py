@@ -9,7 +9,7 @@ https://github.com/noteason/Fortnite-Backend
 """
 import os
 #remove and nothing will work ;)
-os.system("pip install BoogieFN==1.0.5")
+os.system("pip install BoogieFN")
 import sanic
 import shutil
 import replit
