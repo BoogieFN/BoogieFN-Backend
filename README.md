@@ -2,7 +2,6 @@
 ## Backend Used For BoogieFN
 ## Made by noteason and Pirxcy
 
-### Fuck u back❤️
 
 # How to use this Backend
 ### ❯ open run.bat
