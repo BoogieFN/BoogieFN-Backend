@@ -1,5 +1,5 @@
 {
-  "host": "0.0.0.0",
+  "host": "localhost", //use change to 0.0.0.0 if you want to host on replit
   "port": 1942,
   "emergencynotice": "Welcome To BoogieFN!",
   "background": "seasonx"
