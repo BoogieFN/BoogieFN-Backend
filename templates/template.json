@@ -7,23 +7,7 @@
         "accountId": "",
         "created": "",
         "items": {
-          "VictoryCrown:defaultvictorycrown": {
-            "templateId": "VictoryCrown:defaultvictorycrown",
-            "attributes": {
-              "victory_crown_account_data": {
-                "has_victory_crown": false,
-                "data_is_valid_for_mcp": true,
-                "total_victory_crowns_bestowed_count": 500,
-                "total_royal_royales_achieved_count": 1942
-              },
-              "max_level_bonus": 0,
-              "level": 69420,
-              "item_seen": false,
-              "xp": 0,
-              "favorite": false
-            },
-            "quantity": 1
-          }
+        
           },
         "profileId": "athena",
         "rvn": 0,
